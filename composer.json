@@ -1,0 +1,17 @@
+{
+    "name": "away/dns",
+    "description": "A DNS server implementation in pure PHP using swoole extension.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom",
+            "email": "tom@awaysoft.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "away\\DNS\\": "libs/"
+        }
+    }
+}

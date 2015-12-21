@@ -1,0 +1,8 @@
+composer.lock
+composer.phar
+.project
+/vendor/
+.README.md.html
+/.idea
+/tests/clover.xml
+/nbproject
